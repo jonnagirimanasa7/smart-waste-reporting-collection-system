@@ -4,7 +4,7 @@ A web-based smart waste management platform designed to make waste reporting, co
 
 ## 🌐 Live Project
 
-**Project Link:** https://strict-eco-track-flow.base44.app
+**Project Link:https://strict-eco-track-flow.base44.app
 
 ## 📌 Project Description
 
